@@ -1,15 +1,6 @@
 function Schedule() {
     return (
       <div className="text-left">
-        <div id="july-2025">
-          <h2 className="bottom-line">July 2025</h2>
-          {/* COPY HERE */}
-          <h3>Sunday, July 27, 2025</h3>
-          <p>with The Sun Seakers
-          <br />Dive Fire Island
-          <br />
-          Kismet, NY 11706</p>
-        </div>
         <div id="august-2025">
         <h2 className="bottom-line">August 2025</h2>          
           {/* COPY HERE */}
@@ -18,13 +9,6 @@ function Schedule() {
           <br />John Scott's Surf Shack
             <br />
           Westhampton Beach, NY 11978</p>
-          <p className="line-divide"></p>
-          {/* COPY HERE */}
-          <h3>Sunday, August 3, 2025 @ 5:30pm</h3>
-          <p>with The Sun Seakers
-          <br />Watch Hill
-            <br />
-          Patchogue, NY 11772</p>
           <p className="line-divide"></p>
           {/* COPY HERE */}
           <h3>Saturday, August 16, 2025 @ 5:30pm</h3>
@@ -36,9 +20,9 @@ function Schedule() {
           {/* COPY HERE */}          
           <h3>Sunday, August 17, 2025</h3>
           <p>with The Sun Seakers
-          <br />Dive Fire Island
-          <br />
-          Kismet, NY 11706</p>
+          <br />Watch Hill
+            <br />
+          Patchogue, NY 11772</p>
           <p className="line-divide"></p>
           <h3>Sunday, August 24, 2025</h3>
           <p>with The Sun Seakers
