@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/song-requests/static/css/main.00fb1240.css",
+    "main.js": "/song-requests/static/js/main.ad58617f.js",
+    "static/media/loading_spinner.gif": "/song-requests/static/media/loading_spinner.63d7da1bc33c0063002c.gif",
+    "index.html": "/song-requests/index.html",
+    "main.00fb1240.css.map": "/song-requests/static/css/main.00fb1240.css.map",
+    "main.ad58617f.js.map": "/song-requests/static/js/main.ad58617f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00fb1240.css",
+    "static/js/main.ad58617f.js"
+  ]
+}
