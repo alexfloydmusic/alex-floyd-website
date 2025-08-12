@@ -6,7 +6,7 @@ function Footer() {
   return (
     <footer>
       <div className="copyright">
-        <FaRegCopyright /> 2024 Alex Floyd
+        <FaRegCopyright /> 2025 Alex Floyd
       </div>
       <div className="social-media-links">
         <Link to="https://www.instagram.com/alexfloyd_music/"
@@ -15,7 +15,9 @@ function Footer() {
         <Link to="https://www.youtube.com/@AlexFloyd-Music"
               target="_blank"
               rel="noopener noreferrer"> <FaYoutube /></Link>
-        {/* <Link to=""><FaTiktok /></Link> */}
+        <Link to="https://www.tiktok.com/@alexfloyd_music"
+              target="_blank"
+              rel="noopener noreferrer"><FaTiktok /></Link>
       </div>
     </footer>
   );
