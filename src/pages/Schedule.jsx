@@ -28,7 +28,6 @@ function Schedule() {
               <br />54 Broadway
               <br />Greenlawn, NY 11740
             </p>
-            <p className="line-divide"></p>      
         </div>
       </div>
     );
