@@ -18,7 +18,6 @@ function Schedule() {
               <br />259 Front Street
               <br />New York, NY 10038
             </p>
-            <p className="line-divide"></p>
         </div>
         <div id="february-2026">
           <h2 className="bottom-line">February 2026</h2>

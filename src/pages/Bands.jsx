@@ -40,6 +40,22 @@ function Bands() {
           sunseakersmusic@gmail.com
         </a>
       </p>
+
+        <h2 className="bottom-line">Joey Ama Dio</h2>
+        <p>Alex plays guitar in singer-songwriter Joey Ama Dio's band.
+        </p>
+        <p>
+          <strong>Instagram: </strong>
+          <a
+            style={{ textDecoration: "none" }}
+            href="https://www.instagram.com/joeyamadio/?hl=en"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            @joeyamadio
+          </a>
+        </p>
+
       
       <h2 className="bottom-line">Carnival Dogs - A Window into The Doors</h2>
       <p>Alex is the guitarist of Carnival Dogs, Long Island's newest tribute to the legacy of The Doors.</p>
