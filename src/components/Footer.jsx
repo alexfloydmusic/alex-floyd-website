@@ -6,7 +6,7 @@ function Footer() {
   return (
     <footer>
       <div className="copyright">
-        <FaRegCopyright /> 2025 Alex Floyd
+        <FaRegCopyright /> 2026 Alex Floyd
       </div>
       <div className="social-media-links">
         <Link to="https://www.instagram.com/alexfloyd_music/"
