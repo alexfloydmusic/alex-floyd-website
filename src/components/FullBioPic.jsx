@@ -1,7 +1,9 @@
+import CipolloneFour from "../assets/Cipollone_four.jpg"
+
 function FullBioPic() {
     return (
       <div>
-        <img className="fullbio-pic" src={require("../assets/floyd_four.jpg")} alt="Alex Floyd" />
+        <img className="fullbio-pic" src={CipolloneFour} alt="Alex Cipollone" />
       </div>
     );
   }

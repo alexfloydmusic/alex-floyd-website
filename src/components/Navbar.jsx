@@ -8,7 +8,7 @@ function Navbar() {
       <div>
         <nav className="navbar">
             <div className="logo">
-                <h1 style={{ color: "white"}}>Alex Floyd</h1>
+                <h1 style={{ color: "white"}}>Alex Cipollone</h1>
             </div>
             <button className="hamburger" onClick={() => setMenuOpen(!menuOpen)}>
                 {menuOpen ? <FiX /> : <FiMenu />}

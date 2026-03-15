@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 function Bands() {
   return (
     <div className="text-left">
-      <h2 className="bottom-line">Alex Floyd</h2>
+      <h2 className="bottom-line">Alex floyd</h2>
       <p>
         Long Island's one-man band playing hits from different genres from all decades. Click
         <Link style={{ textDecoration: "none" }} to="/about"> <strong>here</strong></Link> to learn more!

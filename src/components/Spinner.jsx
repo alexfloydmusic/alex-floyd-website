@@ -1,7 +1,7 @@
 function Spinner() {
   return (
     <div>
-      <img src={require("../assets/loading_spinner.gif")} alt="" />
+      <img src={import("../assets/loading_spinner.gif")} alt="" />
     </div>
   );
 }

@@ -6,13 +6,13 @@ function Footer() {
   return (
     <footer>
       <div className="copyright">
-        <FaRegCopyright /> 2026 Alex Floyd
+        <FaRegCopyright /> 2026 Alex Cipollone
       </div>
       <div className="social-media-links">
         <Link to="https://www.instagram.com/alexfloyd_music/"
               target="_blank"
               rel="noopener noreferrer"><FaInstagram /></Link>
-        <Link to="https://www.youtube.com/@AlexFloyd-Music"
+        <Link to="https://www.youtube.com/@Alexfloyd-Music"
               target="_blank"
               rel="noopener noreferrer"> <FaYoutube /></Link>
         <Link to="https://www.tiktok.com/@alexfloyd_music"
